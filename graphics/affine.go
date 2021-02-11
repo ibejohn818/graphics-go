@@ -5,11 +5,12 @@
 package graphics
 
 import (
-	"code.google.com/p/graphics-go/graphics/interp"
 	"errors"
 	"image"
 	"image/draw"
 	"math"
+
+	"github.com/ibejohn818/graphics-go/graphics/interp"
 )
 
 // I is the identity Affine transform matrix.

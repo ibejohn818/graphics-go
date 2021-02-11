@@ -6,10 +6,11 @@ package graphics
 
 import (
 	"bytes"
-	"code.google.com/p/graphics-go/graphics/graphicstest"
 	"image"
 	"image/color"
 	"testing"
+
+	"github.com/ibejohn818/graphics-go/graphics/graphicstest"
 )
 
 type transformOneColorTest struct {

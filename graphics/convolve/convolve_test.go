@@ -5,10 +5,11 @@
 package convolve
 
 import (
-	"code.google.com/p/graphics-go/graphics/graphicstest"
 	"image"
 	"reflect"
 	"testing"
+
+	"github.com/ibejohn818/graphics-go/graphics/graphicstest"
 
 	_ "image/png"
 )
